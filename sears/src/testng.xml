@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNg sessions">
+  <test name="Different testng Feature Test">
+ 
+    <classes>
+      <class name="com.test.AnnotationsTest"></class>
+      <class name="com.test.Basic"></class>
+      <class name="com.test.SearsHomePageTest"></class>
+    </classes>
+    
+  </test> 
+</suite> 
